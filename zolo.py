@@ -1,3 +1,3 @@
 print(type(a))
-print(type(b))
+print(type(y))
 print(type(z))
